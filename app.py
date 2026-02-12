@@ -1,4 +1,3 @@
-```python
 # -*- coding: utf-8 -*-
 import streamlit as st
 import streamlit.components.v1 as components
@@ -372,4 +371,3 @@ with tab1:
     passport_app()
 with tab2:
     compliance_app()
-```
