@@ -366,7 +366,7 @@ def compliance_app():
 # MAIN: TABS
 # =========================================================
 
-tab1, tab2 = st.tabs(["🛂 Паспорт РФ", "🧾 Compliance шаблон"])
+tab1, tab2 = st.tabs(["🛂 Паспорт РФ", "🧾 Compliance templates"])
 with tab1:
     passport_app()
 with tab2:
